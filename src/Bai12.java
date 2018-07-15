@@ -89,7 +89,7 @@ public class Bai12 {
                 System.out.println("thua");
                 break;
             }
-            if(playerX ==0 && playerX ==0){
+            if(playerX ==0 && playerY ==0){
                 System.out.println("Win");
                 break;
             }
